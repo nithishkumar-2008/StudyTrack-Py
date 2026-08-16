@@ -1,0 +1,59 @@
+[
+    {
+        "subject": "Python",
+        "topic": "Functions",
+        "duration": 60,
+        "date": "2026-08-07",
+        "completed": "Y"
+    },
+    {
+        "subject": "DSA",
+        "topic": "Arrays",
+        "duration": 90,
+        "date": "2026-08-08",
+        "completed": "Y"
+    },
+    {
+        "subject": "Probability",
+        "topic": "Bayes Theorem",
+        "duration": 50,
+        "date": "2026-08-09",
+        "completed": "N"
+    },
+    {
+        "subject": "Circuit Analysis",
+        "topic": "Mesh Analysis",
+        "duration": 56,
+        "date": "2026-08-10",
+        "completed": "N"
+    },
+    {
+        "subject": "Python",
+        "topic": "Lists and Dictionaries",
+        "duration": 55,
+        "date": "2026-08-11",
+        "completed": "Y"
+    },
+    {
+        "subject": "Digital Electronics",
+        "topic": "Logic Gates",
+        "duration": 70,
+        "date": "2026-08-12",
+        "completed": "N"
+    },
+    {
+        "subject": "DSA",
+        "topic": "Stack",
+        "duration": 130,
+        "date": "2026-08-13",
+        "completed": "Y"
+    },
+    {
+        "subject": "Communication Systems",
+        "topic": "Amplitude Modulation",
+        "duration": 85,
+        "date": "2026-08-13",
+        "completed": "N"
+    }
+    
+]
