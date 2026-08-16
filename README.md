@@ -1,4 +1,4 @@
-# Student Study Tracker
+# StudyTrack-Py
 
 A simple Python CLI application that helps students record, manage, and analyze their daily study sessions.
 
